@@ -14,6 +14,7 @@
     <string name="insert_email">Email</string>
     <string name="row_container">контейнер Row</string>
     <string name="column_container">контейнер Column</string>
+    <string name="box_container">контейнер Box</string>
     <string name="first">первый</string>
     <string name="second">второй</string>
     <string name="third">третий</string>
